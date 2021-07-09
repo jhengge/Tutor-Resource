@@ -1,4 +1,7 @@
 # Tutor-Resource
-#### How to Use This Resource 
+
+#### What is this resource? 
+
+#### How do I use this resource?  
 
 
