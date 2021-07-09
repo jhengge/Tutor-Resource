@@ -10,7 +10,7 @@ We're currently in the process of updating and improving our curriculum. Moreove
 
 Please open the 3.4 resource folder in this repo and browse through the available resources. Some of them are designed to anticipate the trouble spots in the Exercise. If your students are facing similar problems, then please share the various tips and tricks with them. There are also a number of external resources that you can share with your students. 
 
->Remember that it's also important to flag difficult topics and tasks to your students before they encounter them. Encourage your students to seek out the help of additional resources, as well as their tutor and mentor's guidance. Not all students will know where to go for help and they require your help. 
+>Remember that it's also important to flag difficult topics and tasks to your students before they encounter them. Encourage your students to seek out the help of additional resources, as well as the help of their tutor and mentor. Not all students will know where to go for help and they require your guidance. 
 
 Reassure your student that it's okay to struggle with these complex topics, as they are quite difficult. They will need to factor in extra time to learn the content and will not become experts overnight. It will take lots of repetition and practice. 
 
